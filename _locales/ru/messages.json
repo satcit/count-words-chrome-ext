@@ -1,0 +1,22 @@
+﻿{
+  "extName": {
+    "message": "Счетчик слов",
+    "description": "Extension name."
+  },
+  "extDescr": {
+    "message": "Данное расширение добавляет контекстное меню для выделенного текста, чтобы куммулятивно подсчитывать слова.",
+    "description": "Extension description."
+  },
+  "menuTitle": {
+    "message": "Подсчитать слова",
+    "description": "Extension context menu title."
+  },
+  "wordsReadLabelText": {
+    "message": "Прочитано слов: ",
+    "description": "Popup window message."
+  },
+  "clearButtonText": {
+    "message": "Обнулить",
+    "description": "Popup button text."
+  }
+}

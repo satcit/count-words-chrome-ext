@@ -1,0 +1,22 @@
+﻿{
+  "extName": {
+    "message": "Words counter",
+    "description": "Extension name."
+  },
+  "extDescr": {
+    "message": "This extension adds context menu for selected text to count words in it cumulatively.",
+    "description": "Extension description."
+  },
+  "menuTitle": {
+    "message": "Count words",
+    "description": "Extension context menu title."
+  },
+  "wordsReadLabelText": {
+    "message": "Words read: ",
+    "description": "Popup window message."
+  },
+  "clearButtonText": {
+    "message": "Clear",
+    "description": "Popup button text."
+  }
+}
